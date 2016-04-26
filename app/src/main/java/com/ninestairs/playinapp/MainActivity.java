@@ -17,6 +17,7 @@ public class MainActivity extends AppCompatActivity {
         //onStart 에서 산것 기록 없애고 DB에 넣어야 함 (왜냐하면 환불 후 또 구입하는 경우 가능하게 하려면
         //새로운 커멘트 추가
         //다시 추가
+        //버튼추가
 
     }
 }
